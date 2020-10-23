@@ -12,7 +12,7 @@
 
 #### Especificaciones Técnicas
 
-El Proyecto debe contar con un robot móvil de cuatro ruedas que tiene un arduino con un sensor de proximidad y está conectado a un computador medio de una línea de Bluetooth.
+El Proyecto debe contar con un robot móvil de cuatro ruedas que tiene un arduino con un sensor de proximidad.
 
 #### Reglas del Proyecto
 
