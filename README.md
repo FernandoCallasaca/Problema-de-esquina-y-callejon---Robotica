@@ -1,6 +1,6 @@
 # Problema de Esquina y Callejón
 
-### Universidad Nacinal San Antonio Abad del Cusco (UNSAAC)
+### Universidad Nacional San Antonio Abad del Cusco (UNSAAC)
 ### Departamento Académico de Informática
 ### Robótica y Procesamiento de Señales
 
