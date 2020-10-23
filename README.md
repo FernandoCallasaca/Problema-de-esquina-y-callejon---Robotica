@@ -214,5 +214,5 @@ Diagrama de Flujo:
 
 ![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/diagram.jpeg)
 
-> Construido por nuestra compañero Jerry Limpe.
+> Construido por nuestro compañero Jerry Limpe.
 
