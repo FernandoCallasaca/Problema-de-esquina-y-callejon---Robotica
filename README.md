@@ -24,6 +24,23 @@ Circuito:
 
 ![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/circuit.jpeg)
 
-> Circuito construido por nuestra compañera Fiorela.
+> Construido por nuestra compañera Fiorela.
 
 Carrito:
+
+![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/car.jpeg)
+
+> Construido por nuestra compañera Fiorela.
+
+Carrito en nuestro circuito:
+
+![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/car_circuit.jpeg)
+
+> Construido por nuestra compañera Fiorela.
+
+Diagrama de Flujo:
+
+![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/diagram.jpeg)
+
+> Construido por nuestra compañero Jerry Limpe.
+
