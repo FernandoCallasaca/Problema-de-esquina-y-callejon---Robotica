@@ -4,11 +4,11 @@
 ### Departamento Académico de Informática
 ### Robótica y Procesamiento de Señales
 
-- BOLAÑOS CCOPA, RONY				        154624
-- CALLASACA ACUÑA, FERNANDO         140989
-- LIMPE QUISPE, JERRY ANDERSON      140985
-- MENDOZA CJUIRO, NILO FIDEL        144987
-- SERRANO AMAU, FIORELA ELOISA      133968
+- BOLAÑOS CCOPA, RONY				      -   154624
+- CALLASACA ACUÑA, FERNANDO        -  140989
+- LIMPE QUISPE, JERRY ANDERSON     -  140985
+- MENDOZA CJUIRO, NILO FIDEL       -  144987
+- SERRANO AMAU, FIORELA ELOISA     -  133968
 
 #### Especificaciones Técnicas
 
